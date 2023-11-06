@@ -1,7 +1,8 @@
 ---
-name: Battleships
-tools: [Visual Studio, C++]
+name: Playground Game
+tools: [Unity3D, C#]
 image: image url or path here.
 description: Write project description here.
 external_url:
+index: 3
 ---

@@ -1,7 +1,8 @@
 ---
-name: 2.5D Artefact
-tools: [Unity3D, C#]
+name: Battleships
+tools: [Visual Studio, C++]
 image: image url or path here.
 description: Write project description here.
 external_url:
+index: 11
 ---

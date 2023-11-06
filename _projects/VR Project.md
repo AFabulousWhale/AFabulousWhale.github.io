@@ -1,7 +1,8 @@
 ---
-name: Game Makers Tool Kit Game Jam
-tools: [Unity3D, C#]
+name: VR Artefact
+tools: [Unity VR, C#]
 image: image url or path here.
 description: Write project description here.
-external_url: 
+external_url:
+index: 6
 ---
