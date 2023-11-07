@@ -1,8 +1,10 @@
 ---
-name: First Person Shooter
+name: A First Person Shooter
 tools: [Unity3D, C#]
-image: image url or path here.
-description: Write project description here.
-external_url: 
+image: /assets/images/RickNMorty.png
+description: My first project in Unity for a College piece
+external_url: https://github.com/AFabulousWhale/Rick-and-Morty-Game
 index: 7
+year: 2020
+wip: false
 ---

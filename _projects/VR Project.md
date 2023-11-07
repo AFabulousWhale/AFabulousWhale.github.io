@@ -1,8 +1,10 @@
 ---
-name: VR Artefact
+name: A VR Artefact
 tools: [Unity VR, C#]
-image: image url or path here.
-description: Write project description here.
-external_url:
+image: /assets/images/VR.png
+description: A VR Puzzle game where you have to escape prison within 5 minutes.
+external_url: https://github.com/AFabulousWhale/VR-Game
 index: 6
+year: 2022
+wip: false
 ---

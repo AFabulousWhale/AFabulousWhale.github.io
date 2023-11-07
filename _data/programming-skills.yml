@@ -1,11 +1,11 @@
-- name: HTML5/CSS3
-  percentage: 90
+- name: C#
+  percentage: 95
   color: danger
 
-- name: Go
-  percentage: 80
+- name: Unreal Blueprints
+  percentage: 60
   color:
 
-- name: Python
-  percentage: 70
+- name: C++
+  percentage: 5
   color: secondary
