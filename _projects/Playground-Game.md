@@ -7,4 +7,5 @@ external_url: https://github.com/tofuthegreen/Lvl6Colab
 index: 3
 year: 2023
 wip: true
+team: true
 ---

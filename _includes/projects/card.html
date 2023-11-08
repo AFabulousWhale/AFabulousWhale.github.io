@@ -17,10 +17,15 @@
                                 {{ project_name }}
                             </h5>
                         </div>
-                        {%- if wip -%}
+                        {%- if wip or team -%}
                         <div class="col-md-auto" style="margin-right: inherit;">
                             <p class="card-text text-right">
+                                {%- if team -%}
+                                <span class="badge badge-info badge-pill border border-dark ml-1">TEAM</span>
+                                {%- endif -%}
+                                {%- if wip -%}
                                 <span class="badge badge-danger badge-pill border border-dark ml-1">WIP</span>
+                                {%- endif -%}
                             </p>
                         </div>
                         {%- endif -%}
