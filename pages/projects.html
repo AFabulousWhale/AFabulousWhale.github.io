@@ -9,3 +9,12 @@ remote_projects:
 <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous" async></script>
 
 {% include projects/index.html %}
+
+<script>
+    // Apply masonary layout to project cards once the page is fully loaded
+    window.addEventListener('load', (event) => {
+        var msnry = new Masonry( document.getElementById('masonary-grid'), {
+            percentPosition: true
+        });
+    })
+</script>
