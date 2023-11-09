@@ -6,31 +6,17 @@
             <img id="{{ project_id }}-img" class="card-img-top" src="{{ project_img }}" alt="{{ project_name }}" />
             {%- endif -%}
             <div class="card-body">
-                <div class="container">
-                    <div class="row">
-                        <div class="col" style="margin: inherit">
-                            <h5 id="{{ project_id }}-name" class="card-title">
-                                {%- if project_type == "remote" -%}
-                                <i class="fab fa-github" data-toggle="tooltip" data-placement="bottom" data-delay="250"
-                                    title="GitHub Repository"></i> |&nbsp;
-                                {%- endif -%}
-                                {{ project_name }}
-                            </h5>
-                        </div>
-                        {%- if wip or team -%}
-                        <div class="col-md-auto" style="margin-right: inherit;">
-                            <p class="card-text text-right">
-                                {%- if team -%}
-                                <span class="badge badge-info badge-pill border border-dark ml-1">TEAM</span>
-                                {%- endif -%}
-                                {%- if wip -%}
-                                <span class="badge badge-danger badge-pill border border-dark ml-1">WIP</span>
-                                {%- endif -%}
-                            </p>
-                        </div>
-                        {%- endif -%}
-                    </div>
-                </div>
+                <p class="text-right mb-2">
+                    {%- if team -%}
+                    <span class="badge badge-info badge-pill border border-dark ml-1">TEAM</span>
+                    {%- endif -%}
+                    {%- if wip -%}
+                    <span class="badge badge-danger badge-pill border border-dark ml-1">WIP</span>
+                    {%- endif -%}
+                </p>
+                <h5 id="{{ project_id }}-name" class="card-title">
+                    {{ project_name }}
+                </h5>
                 <p id="{{ project_id }}-desc" class="card-text">{{ project_desc }}</p>
                 <p id="{{ project_id }}-tools" class="card-text">
                     {%- for tool in project_tools -%}
