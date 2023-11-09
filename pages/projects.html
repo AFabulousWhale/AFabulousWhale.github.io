@@ -5,6 +5,9 @@ permalink: /projects/
 weight: 1
 remote_projects: 
 ---
+<!-- Images Loaded Plugin -->
+<script src="https://unpkg.com/imagesloaded@5/imagesloaded.pkgd.min.js"></script>
+
 <!-- Masonary CDN -->
 <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous" async></script>
 
@@ -12,10 +15,10 @@ remote_projects:
 
 <script>
     // Apply masonary layout to project cards once the page is fully loaded
-    window.addEventListener('load', (event) => {
+    imagesLoaded(document.getElementById('masonary-grid'), function () {
         var msnry = new Masonry( document.getElementById('masonary-grid'), {
             percentPosition: true,
             horizontalOrder: true
         });
-    })
+    });
 </script>
