@@ -14,8 +14,19 @@ remote_projects:
 {% include projects/index.html %}
 
 <script>
-    // Apply masonary layout to project cards once the page is fully loaded
-    imagesLoaded(document.getElementById('masonary-grid'), function () {
+    // Apply masonary layout to project cards on page ready
+    document.addEventListener('DOMContentLoaded', function () {
+        var msnry = new Masonry( document.getElementById('masonary-grid'), {
+            percentPosition: true,
+            horizontalOrder: true
+        });
+    });
+
+    // Listen for images loading
+    var imgLoad = imagesLoaded(document.getElementById('masonary-grid'));
+
+    // Re-apply the masonary layout on each image load
+    imgLoad.on('progress', function (instance, image) {
         var msnry = new Masonry( document.getElementById('masonary-grid'), {
             percentPosition: true,
             horizontalOrder: true
