@@ -14,7 +14,8 @@ remote_projects:
     // Apply masonary layout to project cards once the page is fully loaded
     window.addEventListener('load', (event) => {
         var msnry = new Masonry( document.getElementById('masonary-grid'), {
-            percentPosition: true
+            percentPosition: true,
+            horizontalOrder: true
         });
     })
 </script>
