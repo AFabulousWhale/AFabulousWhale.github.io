@@ -6,6 +6,6 @@ description: A Playground style game, based on capture the flag, that I made as 
 external_url: https://github.com/tofuthegreen/Lvl6Colab
 index: 4
 year: 2023
-wip: true
+wip: false
 team: true
 ---
