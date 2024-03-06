@@ -1,24 +1,24 @@
 <div id="masonary-grid" class="row" data-masonry="{&quot;percentPosition&quot;: true }" style="position: relative; height: 690px;">
     {% assign projects = site.projects | sort: 'index' %}
     {% for project in projects %}
+        {%- assign project_type = "local" -%}
+        {%- assign project_id = project.name | slugify -%}
+        {%- assign project_img = project.image -%}
+        {%- assign project_name = project.name -%}
+        {%- assign project_desc = project.description -%}
+        {%- assign project_tools = project.tools -%}
+        {%- assign year = project.year -%}
+        {%- assign wip = project.wip -%}
+        {%- assign team = project.team -%}
 
-    {%- assign project_type = "local" -%}
-    {%- assign project_id = project.name | slugify -%}
-    {%- assign project_img = project.image -%}
-    {%- assign project_name = project.name -%}
-    {%- assign project_desc = project.description -%}
-    {%- assign project_tools = project.tools -%}
-    {%- assign year = project.year -%}
-    {%- assign wip = project.wip -%}
-    {%- assign team = project.team -%}
-
-    {%- if project.external_url -%}
-    {%- assign project_url = project.external_url -%}
-    {%- assign external = true -%}
-    {%- else -%}
-    {%- assign project_url = project.url | relative_url -%}
-    {%- assign external = false -%}
-    {%- endif -%}
-    {% include projects/card.html %}
+        {%- if project.external_url -%}
+            {%- assign project_url = project.external_url -%}
+            {%- assign external = true -%}
+        {%- else -%}
+            {%- assign project_url = project.url | relative_url -%}
+            {%- assign external = false -%}
+        {%- endif -%}
+        
+        {% include projects/card.html %}
     {% endfor %}
 </div>
