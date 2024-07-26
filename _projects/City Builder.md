@@ -6,6 +6,6 @@ description: A First Person City Builder game, where you have to protect your to
 external_url: https://github.com/tofuthegreen/Tri2Colab
 index: 2
 year: 2024
-wip: true
+wip: false
 team: true
 ---
