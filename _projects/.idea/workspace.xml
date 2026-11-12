@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="daa0a1a1-e2fe-4a9f-86eb-5baf12932e49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../assets/images/SallyGame.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.5DGame.md" beforeDir="false" afterPath="$PROJECT_DIR$/2.5DGame.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureGameJam.md" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureGameJam.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alchemy Shadows.md" beforeDir="false" afterPath="$PROJECT_DIR$/Alchemy Shadows.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Battleships.md" beforeDir="false" afterPath="$PROJECT_DIR$/Battleships.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/City Builder.md" beforeDir="false" afterPath="$PROJECT_DIR$/City Builder.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DungeonCrawler.md" beforeDir="false" afterPath="$PROJECT_DIR$/DungeonCrawler.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EditorTools.md" beforeDir="false" afterPath="$PROJECT_DIR$/EditorTools.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndlessRunner.md" beforeDir="false" afterPath="$PROJECT_DIR$/EndlessRunner.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GMTK.md" beforeDir="false" afterPath="$PROJECT_DIR$/GMTK.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdleGame.md" beforeDir="false" afterPath="$PROJECT_DIR$/IdleGame.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Playground-Game.md" beforeDir="false" afterPath="$PROJECT_DIR$/Playground-Game.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procedural.md" beforeDir="false" afterPath="$PROJECT_DIR$/Procedural.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RickNMorty.md" beforeDir="false" afterPath="$PROJECT_DIR$/RickNMorty.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rocket Physics.md" beforeDir="false" afterPath="$PROJECT_DIR$/Rocket Physics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text-Adventure.md" beforeDir="false" afterPath="$PROJECT_DIR$/Text-Adventure.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityPhysics.md" beforeDir="false" afterPath="$PROJECT_DIR$/UnityPhysics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnrealAnimals.md" beforeDir="false" afterPath="$PROJECT_DIR$/UnrealAnimals.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnrealShowcase.md" beforeDir="false" afterPath="$PROJECT_DIR$/UnrealShowcase.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VR Project.md" beforeDir="false" afterPath="$PROJECT_DIR$/VR Project.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="project-pages" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AFabulousWhale"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AFabulousWhale/AFabulousWhale.github.io.git",
+    "accountId": "aa1d4e5c-1abd-4811-9d14-7a4bee2eff2d"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000254105" />
+      <entry key="MS500" value="1.0308412304590686" />
+      <entry key="S2" value="1.654192650358644" />
+      <entry key="S5" value="2.9770906408994238" />
+      <entry key="S10" value="5.218628737607962" />
+      <entry key="S30" value="11.259382596145871" />
+      <entry key="S60" value="14.769480337766344" />
+      <entry key="M2" value="17.54882939380603" />
+      <entry key="M5" value="21.9257670617425" />
+      <entry key="M10" value="25.508654891792226" />
+      <entry key="M15" value="27.24744566198423" />
+      <entry key="M30" value="29.377847414729857" />
+      <entry key="H1" value="30.62024861406895" />
+      <entry key="H2" value="31.29196074430977" />
+      <entry key="H4" value="31.641308728774263" />
+      <entry key="D1" value="31.93955787276147" />
+      <entry key="W1" value="31.99134909011728" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8827030150216137" />
+      <entry key="MS500" value="1.004393098496583" />
+      <entry key="S2" value="1.6404205203443087" />
+      <entry key="S5" value="2.967572102473838" />
+      <entry key="S10" value="5.210990436165084" />
+      <entry key="S30" value="11.254260640475007" />
+      <entry key="S60" value="14.766127755303419" />
+      <entry key="M2" value="17.546413833903127" />
+      <entry key="M5" value="21.92335254428063" />
+      <entry key="M10" value="25.506636363930042" />
+      <entry key="M15" value="27.245817622648584" />
+      <entry key="M30" value="29.376854792443137" />
+      <entry key="H1" value="30.61969910175006" />
+      <entry key="H2" value="31.291671461076994" />
+      <entry key="H4" value="31.64116029100581" />
+      <entry key="D1" value="31.939532591393714" />
+      <entry key="W1" value="31.991345465033408" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3M0x8k8FyETkkixxAAy5MTM1qUX" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.github.patou.gitmoji.migration-offered": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daa0a1a1-e2fe-4a9f-86eb-5baf12932e49" name="Changes" comment="" />
+      <created>1794501132129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794501132129</updated>
+      <workItem from="1794501133153" duration="659000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

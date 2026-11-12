@@ -4,7 +4,7 @@ tools: [Unity3D, C#]
 image: /assets/images/GMTK.png
 description: A submission to the Game Makers Toolkit 48-hour Game Jam hosted on itch.io
 external_url: https://afabulouswhale.itch.io/gmt-gamejam
-index: 1
+index: 2
 year: 2023
 wip: false
 ---
